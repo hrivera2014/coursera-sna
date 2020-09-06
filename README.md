@@ -2,6 +2,4 @@
 Social Network Analysis
 =================
 
-by [Lada Adamic](https://www.coursera.org/instructor/~267)
-
-https://www.coursera.org/course/sna
+by [Lada Adamic] http://www.ladamic.com/
